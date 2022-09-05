@@ -1,1 +1,3 @@
+pickle
+streamlit
 tmdbv3api.py
