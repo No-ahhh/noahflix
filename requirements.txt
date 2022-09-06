@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 altair==4.2.0
 attrs==22.1.0
 blinker==1.5
@@ -52,4 +51,3 @@ zipp==3.8.1
 pickle
 streamlit
 tmdbv3api
->>>>>>> dff3ada245d56b3557a64ccac1e592a6d69ba5a4
